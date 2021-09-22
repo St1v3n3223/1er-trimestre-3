@@ -28,7 +28,7 @@ ME GUSTAN LOS ESPAGUETIS
 
 JUEGO AL LOL, AL MINECRAFT, AL COUNTER Y A MIL JUEGOS MAS
 
-EN MI TIEMPO LIBRE SUELO SALIR CON MIS AMIGOS MIS REALES
+EN MI TIEMPO LIBRE SUELO SALIR CON MIS REALES
 
 ME GUSTA EL ANIME
 
@@ -36,7 +36,7 @@ QUIERO UNA CHICA GAMER (GOTICA CULONA)
 
 MI ANIME FAVORITO ES ONE PIECE, pero me gustan muchos mas, como tokyo revengers que ha salido este año, boku no hero, naruto, yuri on ice. Me he visto bastamtes
 
-Me gustan las plantas <3
+Me gustan las plantas :v
 
 [classe binario][https://github.com/Draken666/1er-trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD]
 
