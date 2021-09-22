@@ -41,6 +41,8 @@ Me gustan las plantas :v
 [classe binario][https://github.com/Draken666/1er-trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD]
 
 
+## VITAS MARICON
+
 
 
 
