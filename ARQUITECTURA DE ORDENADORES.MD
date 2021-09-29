@@ -167,6 +167,8 @@ Velocidad?
 
 1341 MHz
 
+[](https://www.geektopia.es/es/product/nvidia/geforce-gtx-1050-ti/)
+
 
 
 
