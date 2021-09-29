@@ -155,6 +155,8 @@ DVID: 1
 
 DisplayPort: 1x
 
+Interfaz 128 bits
+
 Que prodesador tiene? 
 
 GeForce GTX 1050 Ti, NVIDIA, 7680 x 4320 Pixeles
