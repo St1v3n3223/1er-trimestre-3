@@ -126,7 +126,48 @@ con  los  que  está  trabajando.
 
 
 
-## CREACION DE ORDENADOR
+### CREACION DE ORDENADOR
+
+
+
+
+### TARJETA GRAFICA
+
+Que son? 
+
+Una tarjeta gráfica es una tarjeta de expansión de la placa base del ordenador que se encarga de procesar los datos provenientes de la unidad central de procesamiento (CPU) y transformarlos en información comprensible y representable en el dispositivo de salida 
+
+Que es una gpu?
+
+Representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC
+
+Caracteristicas?
+
+Modelo gpu: GP107
+
+Mmeoria: 4 GB
+
+Tipo de memoria: GDDR5 a 7 GHz
+
+HDMI: 1x
+
+DVID: 1
+
+DisplayPort: 1x
+
+Que prodesador tiene? 
+
+GeForce GTX 1050 Ti, NVIDIA, 7680 x 4320 Pixeles
+
+Memoria? 
+
+GDDR5
+
+Velocidad? 
+
+1341 MHz
+
+
 
 
 
