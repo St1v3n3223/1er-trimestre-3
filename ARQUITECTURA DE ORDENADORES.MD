@@ -172,6 +172,15 @@ Velocidad?
 [](https://www.geektopia.es/es/product/nvidia/geforce-gtx-1050-ti/)
 
 
+### DISCO DURO
+
+Que es?
+
+un disco duro para ordenador es un tipo de tecnología que almacena el sistema operativo, las aplicaciones y los archivos de datos que su ordenador utiliza para funcionar normalmente. Los demás componentes en su ordenador trabajan juntos para mostrarle las aplicaciones y archivos cuando usted lo desea.
+
+Tengo un disco duro magnetico de 100g, cuanto sectores tiene si cada sector es de 512 bits
+
+
 
 
 
