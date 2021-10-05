@@ -228,9 +228,12 @@ Tipo: SSD
 
 Tamaño: 8.02 CM anchura 2.22 de altura
 
-Velocidad de aguja: 7.000 MB/s
+Velocidad de aguja: 
 
 
+80$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-de-500-gb-sandisk-ssd-ultra-3d-2-5p-negro-1391626.html)
+
+40$ 
 
 
 
