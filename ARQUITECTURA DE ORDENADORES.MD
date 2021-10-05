@@ -216,6 +216,22 @@ Hay 4.000.000.000 de ordenadores conectados a esta IP v6
 IOT: internet of things por cada persona va a haver mas objetos conectados. que incorporan sensores, software y otras tecnologías con el fin de conectar e intercambiar datos con otros dispositivos y sistemas a través de Internet.
 
 
+DISCO DURO
+
+Capacidad: 2tb
+
+Precio: 200$
+
+Interfaz: PCI Express 4.0
+
+Tipo: SSD
+
+Tamaño: 8.02 CM anchura 2.22 de altura
+
+Velocidad de aguja: 7.000 MB/s
+
+
+
 
 
 
