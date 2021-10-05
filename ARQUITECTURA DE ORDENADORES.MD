@@ -238,7 +238,7 @@ Velocidad de aguja:
 300$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-1-tb-wdblack-sn850-nvmetm-ssd-con-disipador-de-calor-pcier-gen4-lectura-7000-mbs-negro-1517442.html)
 
 
-Al fin y al cabo cuanto mas dinero mas teras vas a tener, pero no necesitas muchos tera, depende en realidad yo no necesito 16 tb que hay discos duros por 300 euros  los tienes pero a mi no me hacen falta.
+Al fin y al cabo cuanto mas dinero mas teras vas a tener, pero no necesitas muchos tera, depende en realidad yo no necesito 16 tb que hay discos duros por 300 euros  los tienes pero a mi no me hacen falta. 
 
 
 
