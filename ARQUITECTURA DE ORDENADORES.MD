@@ -233,11 +233,12 @@ Velocidad de aguja:
 
 80$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-de-500-gb-sandisk-ssd-ultra-3d-2-5p-negro-1391626.html)
 
-40$ 
+40$: [](https://www.amazon.es/Toshiba-Canvio-Basics-port%C3%A1til-Pulgadas/dp/B07997KKSK/ref=asc_df_B07997KKSK/?tag=googshopes-21&linkCode=df0&hvadid=198983632286&hvpos=&hvnetw=g&hvrand=3465103110838433554&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005427&hvtargid=pla-420088094866&psc=1)
+
+300$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-1-tb-wdblack-sn850-nvmetm-ssd-con-disipador-de-calor-pcier-gen4-lectura-7000-mbs-negro-1517442.html)
 
 
-
-
+Al fin y al cabo cuanto mas dinero mas teras vas a tener, pero no necesitas muchos tera, depende en realidad yo no necesito 16 tb que hay discos duros por 300 euros  los tienes pero a mi no me hacen falta.
 
 
 
