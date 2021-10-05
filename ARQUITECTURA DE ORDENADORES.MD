@@ -185,6 +185,40 @@ Tengo un disco duro magnetico de 100g, cuanto sectores tiene si cada sector es d
 
 sol: 209.000.000
 
+## INTERNET Y REDES
+
+## REDES LOCALES LAN
+
+Local area Network: un conjunto de ordenadores que se hablan entre si, se hablan por protocolo, a cada uho de los ordenadores se les diagnostica una ip, una especie de localizador, son 4 numeros (246.321.567)
+
+Un switch es un aparato que sirve para conectar varios clabes de red, y decidiendo quien se conecta a cada momento, este solo funcionara en la red local cableada.
+
+El wifi funciona por una ip, y tiene un servidor o punto de acceso, cuando compartimos datos desde el movil estamos estableciendo una red portatil, esto se asigna una ip.
+
+DHCP: Asigna de forma automatica las ip de los ordenadores conectados.
+
+Router: Unimos nuestra lan porque es un dispositivo que ofrece una conexión Wi‑Fi, que normalmente está conectado a un módem y que envía información de Internet a tus dispositivos personales, como ordenadores, teléfonos o tablets, los routers se conectan a la ISP, el isp es lo que da internet, se conecta al DNS, cuando no responde el ISP el DNS etara alli. 
+
+El DNS (Domain Name System, Sistema de Nombres de Dominio) es un conjunto de protocolos y servicios que permite a los usuarios utilizar nombres en vez de tener que recordar direcciones IP numéricas. ... Además de ser más fácil de recordar, el nombre es más fiable.
+
+DDOS: denegacion de servicio, estos son limitados, es pedir a la vez demasiadas cosas a un mismo servidor.
+
+Stream: Protocolo UTP, este emite informacion, es una corriente de datos, los datos se reparten
+
+Puertos: Son sus puertas pueden estar abiertas cerradas, 80-httg 443-httgs, estos utilizan el prtocolo de hipertexto.
+
+LAN tenemso 4 bytes
+
+255.255.255.255
+
+Hay 4.000.000.000 de ordenadores conectados a esta IP v6
+
+IOT: internet of things por cada persona va a haver mas objetos conectados. que incorporan sensores, software y otras tecnologías con el fin de conectar e intercambiar datos con otros dispositivos y sistemas a través de Internet.
+
+
+
+
+
 
 
 
