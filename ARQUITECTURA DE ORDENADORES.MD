@@ -231,14 +231,34 @@ Tamaño: 8.02 CM anchura 2.22 de altura
 Velocidad de aguja: 
 
 
-80$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-de-500-gb-sandisk-ssd-ultra-3d-2-5p-negro-1391626.html)
+80$: [1](https://www.mediamarkt.es/es/product/_disco-duro-ssd-de-500-gb-sandisk-ssd-ultra-3d-2-5p-negro-1391626.html)
 
-40$: [](https://www.amazon.es/Toshiba-Canvio-Basics-port%C3%A1til-Pulgadas/dp/B07997KKSK/ref=asc_df_B07997KKSK/?tag=googshopes-21&linkCode=df0&hvadid=198983632286&hvpos=&hvnetw=g&hvrand=3465103110838433554&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005427&hvtargid=pla-420088094866&psc=1)
+40$: [1](https://www.amazon.es/Toshiba-Canvio-Basics-port%C3%A1til-Pulgadas/dp/B07997KKSK/ref=asc_df_B07997KKSK/?tag=googshopes-21&linkCode=df0&hvadid=198983632286&hvpos=&hvnetw=g&hvrand=3465103110838433554&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005427&hvtargid=pla-420088094866&psc=1)
 
-300$: [](https://www.mediamarkt.es/es/product/_disco-duro-ssd-1-tb-wdblack-sn850-nvmetm-ssd-con-disipador-de-calor-pcier-gen4-lectura-7000-mbs-negro-1517442.html)
+300$: [1](https://www.mediamarkt.es/es/product/_disco-duro-ssd-1-tb-wdblack-sn850-nvmetm-ssd-con-disipador-de-calor-pcier-gen4-lectura-7000-mbs-negro-1517442.html)
 
 
 Al fin y al cabo cuanto mas dinero mas teras vas a tener, pero no necesitas muchos tera, depende en realidad yo no necesito 16 tb que hay discos duros por 300 euros  los tienes pero a mi no me hacen falta. 
+
+
+500/mb / 50.000 hg
+  
+         20.000 hg     8 bits
+        
+
+150.000 gts/s=16000/8100= 19'5 
+
+19'537/1024= 19'0
+
+Los buses de datos tienen una determinanda capacidad de transmitir informaci9on. Esta capacidad se mide ne informacion/s.
+
+Para pasar de una unidad a otra tendremos que dividir o multiplicar 
+
+Para pasar de bits a bytes dividiremos entre 8, que es el numero de bits en un byte
+
+Para pasar de bytes a killoByts dividimos entre 1024, que es el numero de bytes en un kb
+
+Para pasar de KB a megabyte dividimos entre 1024, que es el numero de mb en un kb
 
 
 
