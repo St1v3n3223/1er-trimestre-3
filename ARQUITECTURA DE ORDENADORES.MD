@@ -187,6 +187,32 @@ sol: 209.000.000
 
 ## INTERNET Y REDES
 
+Protocolo TCP/IP - Se les asigna una IP, son 4 bytres (4 numeros entre el 0-255)(246.3.38.0.1)
+
+SWITCH- Sirve para concectar varios cables de red, y decide que se concecta a cada ascendente
+
+El wiffi lo que tiene es un servidor o punto de acceso WIFFI,los accesos wiffi no tienen porque tener internet
+
+DHCP- Lo que haces es asignar de forma automatica las IP de los ordenadores conectados
+
+ISP :Es lo que te da internet y se conecta a Service Pavidez
+
+Los DNS etan conectados entre si, esto hace que no tengas que recordar las IP de todo
+
+DDOS: Denegacion de servicio
+
+Ataque de DDOS es perdir a al vez demasiadas cosasa un mismo servidor
+
+Stream- Arroyo de datos, corriente de agua
+
+Protocolo UTP- Te emite
+
+Puertos- Puertas abiertas o cerradas. Los mas habituales son 80- htts y el 443. httes (hipertexto)
+
+IPv6- 6bytes
+
+IoT- Internet of Things
+
 ## REDES LOCALES LAN
 
 Local area Network: un conjunto de ordenadores que se hablan entre si, se hablan por protocolo, a cada uho de los ordenadores se les diagnostica una ip, una especie de localizador, son 4 numeros (246.321.567)
