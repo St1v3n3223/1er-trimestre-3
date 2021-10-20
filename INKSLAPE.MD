@@ -1,3 +1,4 @@
+![Captura de pantalla de 2021-10-20 13-23-14](https://user-images.githubusercontent.com/90753279/138083981-c3b8074b-3dba-4bea-80c7-5c98e9fbc496.png)
 # 
 Pixeles, la nunidad de la pantalla
 
