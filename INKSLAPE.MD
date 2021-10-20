@@ -22,7 +22,7 @@ Lineas horizontales: en el video se utiliza la cantidad de lineas horizontales, 
 
 formatos comunes:
 
-jpg
+[JPG](https://www.cleverfiles.com/howto/wp-content/uploads/2018/03/minion.jpg)
 
 png
 
