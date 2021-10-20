@@ -31,6 +31,13 @@ tiff
 ![GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
 
 
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen raster
+
+Vectorizar es pasar de un mapa de bits a frormar una vstorial
+
+Un mapa de bits es una imagen raster.
+
+![LEON ROSA BONHEUR](https://content3.cdnprado.net/imagenes/Documentos/imgsem/a6/a61b/a61b0f48-75f0-43fe-a995-63cc36158cbc/51b34837-980c-420b-8be3-76e896cce33b_268.jpg)
 
  
                 
