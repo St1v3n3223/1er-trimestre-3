@@ -115,6 +115,7 @@ con  los  que  está  trabajando.
 
 
 
+Ancho de banda: El ancho de banda se mide como la cantidad de datos que se pueden transferir entre dos puntos de una red en un tiempo específico. Normalmente, el ancho de banda se mide en bits por segundo (bps) y se expresa como una tasa de bits. ... Se puede comparar el ancho de banda con el agua que fluye a través de una red o objeto.
 
 
 
