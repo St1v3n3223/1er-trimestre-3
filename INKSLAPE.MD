@@ -22,13 +22,13 @@ Lineas horizontales: en el video se utiliza la cantidad de lineas horizontales, 
 
 formatos comunes:
 
-[JPG](https://www.cleverfiles.com/howto/wp-content/uploads/2018/03/minion.jpg)
+![JPG](https://www.cleverfiles.com/howto/wp-content/uploads/2018/03/minion.jpg)
 
 png
 
 tiff
 
- [GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
+![GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
 
 
 
