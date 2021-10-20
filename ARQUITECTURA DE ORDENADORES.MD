@@ -306,6 +306,11 @@ Frecuencia de sonido
 
 25.000.000 x 512= 12800000000 bytes/s
 
+3hz 3 veces por segundo 
+
+20kz son 20.000 veces por segundo
+
+8bits x 20hz=
 
 
 
