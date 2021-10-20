@@ -42,6 +42,11 @@ Un mapa de bits es una imagen raster.
 
 [ORIGINAL](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
 
+Tamaño personalizado, ancho 600, alto 1000, cerramos la ventana, accedemos a la imagen de internet
+
+-archivo importar
+-Arrastras la imagen
+-Copiar y pegar la imagen
 
  
                 
