@@ -30,6 +30,7 @@ tiff
 
 ![GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
 
+# vectorizacion
 
 Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen raster
 
@@ -40,5 +41,7 @@ Un mapa de bits es una imagen raster.
 ![LEON ROSA BONHEUR](https://content3.cdnprado.net/imagenes/Documentos/imgsem/a6/a61b/a61b0f48-75f0-43fe-a995-63cc36158cbc/51b34837-980c-420b-8be3-76e896cce33b_268.jpg)
 
 [ORIGINAL](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
+
+
  
                 
