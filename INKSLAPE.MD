@@ -20,5 +20,7 @@ Numero total de pixeles, normalmente megapixeles (mp) esto es el numero que resu
 
 Lineas horizontales: en el video se utiliza la cantidad de lineas horizontales, normalmente se asume una medida, crean ellas en A y B por medida
 
+
+
  
                 
