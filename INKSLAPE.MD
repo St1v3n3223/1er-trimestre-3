@@ -20,6 +20,16 @@ Numero total de pixeles, normalmente megapixeles (mp) esto es el numero que resu
 
 Lineas horizontales: en el video se utiliza la cantidad de lineas horizontales, normalmente se asume una medida, crean ellas en A y B por medida
 
+formatos comunes:
+
+jpg
+
+png
+
+tiff
+
+ [GIF](https://i2.wp.com/hipertextual.com/wp-content/uploads/2016/10/giphy.gif?w=400&ssl=1)
+
 
 
  
