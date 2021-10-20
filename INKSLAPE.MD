@@ -1,4 +1,4 @@
-![Captura de pantalla de 2021-10-20 13-23-14](https://user-images.githubusercontent.com/90753279/138083981-c3b8074b-3dba-4bea-80c7-5c98e9fbc496.png)
+
 # 
 Pixeles, la nunidad de la pantalla
 
@@ -49,5 +49,6 @@ Tamaño personalizado, ancho 600, alto 1000, cerramos la ventana, accedemos a la
 -Arrastras la imagen
 -Copiar y pegar la imagen
 
+![Captura de pantalla de 2021-10-20 13-23-14](https://user-images.githubusercontent.com/90753279/138083981-c3b8074b-3dba-4bea-80c7-5c98e9fbc496.png)
  
                 
