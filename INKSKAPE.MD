@@ -58,4 +58,8 @@ Vectorial: es un conjunto de formas
 
 Rasterizar: 
  
+ Leon 1
+ 
+ ![leon](https://user-images.githubusercontent.com/90753279/139020709-3deef057-5a6c-4ae4-ada9-90ef6ac26244.png)
+
                 
