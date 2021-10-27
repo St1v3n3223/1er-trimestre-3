@@ -66,5 +66,8 @@ Rasterizar:
  
  ![leon1](https://user-images.githubusercontent.com/90753279/139020923-55243d1c-165b-4f8d-a79f-8465f5b5b10a.png)
 
+Leon 2 x350 de ancho
+
+![leon2](https://user-images.githubusercontent.com/90753279/139021117-7511b60d-28cb-4929-896d-9d282376b677.png)
 
                 
