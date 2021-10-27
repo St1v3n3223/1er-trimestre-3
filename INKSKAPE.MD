@@ -55,5 +55,7 @@ Tamaño personalizado, ancho 600, alto 1000, cerramos la ventana, accedemos a la
 Lo primero que he hecho es importar la imagen de el leon, me he ido a filtros y lo he puesto en acuarela, he duplicado 2 veces el leon para que el color se vea mas vivo y he puesto tres mas
 
 Vectorial: es un conjunto de formas
+
+Rasterizar: 
  
                 
