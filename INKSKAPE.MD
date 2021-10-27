@@ -104,3 +104,5 @@ Este sistema mexcla los tres colores primarios substractivos: cian, magenta y am
 
 Canal de negros
 
+iT AL GITHUB DEL DAVID PROFE, referencias inskape---> curso logo a logo y hay unas instruciones que puedes seguir y hacer los ejerciccios
+
