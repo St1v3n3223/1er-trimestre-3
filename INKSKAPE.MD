@@ -110,4 +110,12 @@ iT AL GITHUB DEL DAVID PROFE, referencias inskape---> curso logo a logo y hay un
 ![Captura de pantalla de 2021-10-27 12-07-14](https://user-images.githubusercontent.com/90753279/139047439-8d21a607-2743-4aaa-a881-c0c59fd27f60.png)
 
 
+## OPERACIONES CON FORMAS
+
+Forma 1 + Forma 2
+Forma 1 U forma 2
+
+ 
+
+
 
