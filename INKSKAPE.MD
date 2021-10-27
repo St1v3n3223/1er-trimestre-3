@@ -9,7 +9,7 @@ Pixeles, la nunidad de la pantalla
 
 ImaGENES: Las imagenes se guardan digitalmente de dos maneras. 
 
-RASTER: Por un lado podemos hacer una matriz de puntos (MAPA DE BITS) y a cada punto le asignamos un color.
+RASTER: Por un lado podemos hacer una matriz de puntos (MAPA DE BITS) y a cada punto le asignamos un color. Va por pixeles
 
 
 RESOLUCION: UN MAPA DE TIENE UN TAMAÑO CONCRETO
@@ -53,5 +53,7 @@ Tamaño personalizado, ancho 600, alto 1000, cerramos la ventana, accedemos a la
 ![Captura de pantalla de 2021-10-20 13-23-14](https://user-images.githubusercontent.com/90753279/138083981-c3b8074b-3dba-4bea-80c7-5c98e9fbc496.png)
 
 Lo primero que he hecho es importar la imagen de el leon, me he ido a filtros y lo he puesto en acuarela, he duplicado 2 veces el leon para que el color se vea mas vivo y he puesto tres mas
+
+Vectorial: es un conjunto de formas
  
                 
