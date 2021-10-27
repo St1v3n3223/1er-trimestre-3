@@ -58,8 +58,13 @@ Vectorial: es un conjunto de formas
 
 Rasterizar: 
  
- Leon 1
+ Leon x16 de ancho
  
  ![leon](https://user-images.githubusercontent.com/90753279/139020709-3deef057-5a6c-4ae4-ada9-90ef6ac26244.png)
+ 
+ Leon 1 x160 de ancho
+ 
+ ![leon1](https://user-images.githubusercontent.com/90753279/139020923-55243d1c-165b-4f8d-a79f-8465f5b5b10a.png)
+
 
                 
