@@ -98,4 +98,9 @@ Este sistema mezcla lo siguiente
 
 -Un canal de luminosidad de color (light).
 
+CMIK
+
+Este sistema mexcla los tres colores primarios substractivos: cian, magenta y amarillo. 
+
+Canal de negros
 
