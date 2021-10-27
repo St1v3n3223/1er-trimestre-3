@@ -1,4 +1,3 @@
-![Captura de pantalla de 2021-10-20 13-53-08](https://user-images.githubusercontent.com/90753279/138089405-300f224d-e4bb-4c1d-99a3-68a171cb908b.png)
 
 # 
 Pixeles, la nunidad de la pantalla
@@ -105,4 +104,10 @@ Este sistema mexcla los tres colores primarios substractivos: cian, magenta y am
 Canal de negros
 
 iT AL GITHUB DEL DAVID PROFE, referencias inskape---> curso logo a logo y hay unas instruciones que puedes seguir y hacer los ejerciccios
+
+
+![Captura de pantalla de 2021-10-27 12-17-58](https://user-images.githubusercontent.com/90753279/139047400-7c650611-8a48-43c3-801a-fad6dc66af07.png)
+![Captura de pantalla de 2021-10-27 12-07-14](https://user-images.githubusercontent.com/90753279/139047439-8d21a607-2743-4aaa-a881-c0c59fd27f60.png)
+![Captura de pantalla de 2021-10-20 13-53-08](https://user-images.githubusercontent.com/90753279/138089405-300f224d-e4bb-4c1d-99a3-68a171cb908b.png)
+
 
