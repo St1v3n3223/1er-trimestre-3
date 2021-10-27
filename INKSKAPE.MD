@@ -75,3 +75,7 @@ Leon 3 x800 de ancho
 
 ![leon3](https://user-images.githubusercontent.com/90753279/139021293-9deeff7f-55b4-4990-ba47-bb2fea746557.png)
 
+
+Leon 4 x1500 de ancho
+
+![leon4](https://user-images.githubusercontent.com/90753279/139021449-11481df1-9436-427b-885e-c06f41a2c83c.png)
